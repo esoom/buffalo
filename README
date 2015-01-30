@@ -1,0 +1,30 @@
+Buffalo | YACC for Python
+<github.com/esoom/buffalo/>
+
+Copyright (C) 2015 Esoom (Developer)
+              2015 Naelan, Soft. (Corporate)
+              
+= = = = = = = = = = = = = = = = = = = = = =
+
+Buffalo
+=======
+
+Requirements
+============
+
+Building
+========
+
+Usage
+=====
+        import:
+              'import buffalo'
+              
+        examples:
+              bad.yaml:
+              
+              spec.yaml:
+
+License
+=======
+        - GPLv2.0
